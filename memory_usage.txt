@@ -1,0 +1,13 @@
+systemd+ 4.94141
+whoopsie 12.3047
+message+ 6.00781
+kernoops 0.8125
+syslog 4.4375
+colord 14.1758
+rtkit 2.92969
+tarun 3741.06
+gdm 552.336
+avahi 4.61719
+postfix 10.1406
+root 664.375
+lp 11.8438

@@ -1,0 +1,13 @@
+systemd+ 0 % 
+whoopsie 0 % 
+message+ 0 % 
+kernoops 0 % 
+syslog 0 % 
+colord 0 % 
+rtkit 0 % 
+tarun 48.5 % 
+gdm 0.2 % 
+avahi 0.1 % 
+postfix 0 % 
+root 14.3 % 
+lp 0 % 
