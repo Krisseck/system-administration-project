@@ -12,7 +12,7 @@ This tool is created to provide GUI for basic System Administration Tasks.
 
 ### Screenshots
 
-[![Screenshot 1](screenshot/thumb-screenshot-1.png)](screenshot/screenshot-1.png)
+
 
 
 ### Requirements
