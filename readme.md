@@ -12,7 +12,7 @@ This tool is created to provide GUI for basic System Administration Tasks.
 
 ### Screenshots
 
-[![Screenshot 1](screenshots/th_Screenshot from 2018-12-05 19-21-23.png)](screenshots/Screenshot from 2018-12-05 19-21-23.png)
+[![Screenshot 1]("screenshots/th_Screenshot from 2018-12-05 19-21-23.png")]("screenshots/Screenshot from 2018-12-05 19-21-23.png")
 
 
 ### Requirements
